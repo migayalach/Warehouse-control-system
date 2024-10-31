@@ -1,1 +1,2 @@
 # Warehouse-control-system
+Este proyecto es un sistema de control de almacén diseñado para un centro de salud, enfocado en gestionar el inventario de suministros y materiales médicos. Desarrollado en PHP con mejoras en varias partes del código existente, cuenta con una interfaz optimizada usando Bootstrap y tecnologías dinámicas como AJAX y jQuery, que facilitan la actualización en tiempo real sin recargar la página. La base de datos en MySQL permite un control seguro y organizado del inventario.
